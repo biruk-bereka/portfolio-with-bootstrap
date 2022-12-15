@@ -2,3 +2,9 @@
   padding: 0;
   margin: 0;
 }
+
+.headline {
+  background-image: url('images/Illustration-header@1x.png');
+  background-repeat: no-repeat;
+  background-position: 100% 10%;
+}
